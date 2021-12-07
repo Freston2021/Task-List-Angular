@@ -10,7 +10,19 @@
       "id": 3,
       "text": "Investigar sobre Ovnis",
       "day": "Agosto 9 a las 19:00",
-      "reminder": false
+      "reminder": true
+    },
+    {
+      "text": "Leer sobre Angular",
+      "day": "Diciembre 10 a las 20:00",
+      "reminder": true,
+      "id": 4
+    },
+    {
+      "text": "Crear tarea",
+      "day": "Diciembre 11 a las 11:00",
+      "reminder": true,
+      "id": 5
     }
   ]
 }
