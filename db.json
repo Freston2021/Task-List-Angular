@@ -1,18 +1,6 @@
 {
   "task": [
     {
-      "id": 1,
-      "text": "Terminar primer modulo de Angular",
-      "day": "Agosto 5 a las 12:00",
-      "reminder": true
-    },
-    {
-      "id": 3,
-      "text": "Investigar sobre Ovnis",
-      "day": "Agosto 9 a las 19:00",
-      "reminder": true
-    },
-    {
       "text": "Leer sobre Angular",
       "day": "Diciembre 10 a las 20:00",
       "reminder": true,
@@ -23,6 +11,18 @@
       "day": "Diciembre 11 a las 11:00",
       "reminder": true,
       "id": 5
+    },
+    {
+      "text": "Leer sobre Angular 222",
+      "day": "Diciembre 15 a las 20:00",
+      "reminder": true,
+      "id": 6
+    },
+    {
+      "text": "Médico Papa Nefrologo",
+      "day": "Diciembre 10 12.30",
+      "reminder": true,
+      "id": 7
     }
   ]
 }
